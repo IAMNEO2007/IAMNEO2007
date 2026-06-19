@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nirmal 👋
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=NIRMAL:+AI+Agents+Maker+on+AWS;GenAI+Frontend+%26+Backend+Developer;Full+Stack+Developer+(Backend+%26+AI);Building+AI+Agents+that+actually+do+things;Designing+%26+Querying+Databases+(DBMS)" alt="Typing SVG" />
 
 ### 🤖 AI Agent Developer &nbsp;|&nbsp; 🌐 Full Stack Engineer &nbsp;|&nbsp; 🗄️ DBMS
 
