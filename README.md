@@ -1,5 +1,5 @@
 <div align="center">
-Hi there, I'm [Your Name] 👋
+Hi there, I'm [ Nirmal] 👋
 
 🤖 AI Agent Developer  |  🌐 Full Stack Engineer  |  🗄️ DBMS
 
