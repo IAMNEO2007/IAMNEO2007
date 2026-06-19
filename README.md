@@ -4,7 +4,7 @@
 
 ### 🤖 AI Agent Developer &nbsp;|&nbsp; 🌐 Full Stack Engineer &nbsp;|&nbsp; 🗄️ DBMS
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+actually+do+things;Full+Stack+Developer+(Frontend+%2B+Backend);Designing+%26+Querying+Databases+(DBMS);Turning+Ideas+into+Deployed+Websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+actually+do+things;AI+Agents+Maker+on+AWS;Full+Stack+Developer+(Backend+%26+AI);Designing+%26+Querying+Databases+(DBMS);Turning+Ideas+into+Deployed+Websites" alt="Typing SVG" />
 
 </div>
 
@@ -14,10 +14,14 @@
 
 - 🌐 Web developer learning **AI/ML**, and building **AI agents** on the side
 - 🤖 I build agents that use tools and take action — not just chatbots
-- 🚀 Full Stack Developer — frontend, backend, and everything in between
+- 🚀 Full Stack Developer — frontend, backend, and React/Vue frontend, Node/TypeScript backend, REST/GraphQL APIs.
 - 🗄️ I design and work with **databases (DBMS)** — schema design, queries, optimization
 - 💡 I build complete websites/apps end to end — idea → design → deployment
 - 🤝 Open to collaborating on impactful, real-world projects
+- ☁️ NLM / NLP on AWS — architect and deploy large language model systems, pipelines, and inference infra.
+- 🛠️ Product delivery — prototyping, CI/CD, containerization, monitoring, and deployment.
+
+---
 
 ---
 
@@ -52,20 +56,7 @@
 **Tools & Platforms**
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway,postman,vscode,linux,figma,aws" /></p>
 
----
 
-## 🚀 What I'm Building
-
-### 🏥 Airoli Care Connect — Clinic Booking & Management Platform
-A real-world clinic booking and management system, evolving from a React/TypeScript frontend into a full-stack application.
-
-- 🖥️ Patient portal + Staff portal with live queue management
-- 🔄 Migrating storage from localStorage → **PostgreSQL + Prisma + Express**
-- ⚡ Adding **Socket.io** for real-time sync and **JWT** role-based auth
-- 🤖 **n8n automation hub** for webhook-triggered workflows
-- 💬 WhatsApp notifications via Twilio
-
----
 
 ## 📊 GitHub Stats
 
