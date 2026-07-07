@@ -61,16 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=IAMNEO2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=IAMNEO1507&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=IAMNEO2007&theme=dark&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IAMNEO2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IAMNEO1507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=IAMNEO2007&icon=1&color=1" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=IAMNEO1507&icon=1&color=1" /></a>
 </p>
 
 <!-- Stats widgets powered by GPRM (https://gprm.itsvg.in) -->
